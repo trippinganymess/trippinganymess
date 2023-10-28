@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @trippinganymess
 - 👀 I’m interested in full stake web development
-- 🌱 I’m currently learning html,css and js.
+- 🌱 I’m currently learning html,css and jss
+  .
 - 💞️ I’m looking to collaborate on nothing right now i am a newbie.
 - 📫 How to reach me alexwizfurd@gmail.com
 
