@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @trippinganymess
-- 👀 I’m interested in full stake web development
-- 🌱 I’m currently learning java and c.
-  .
-- 💞️ I’m looking to collaborate on nothing right now i am a newbie.
-- 📫 How to reach me alexwizfurd@gmail.com
+- 📫 How to reach me animeshclouds@gmail.com
 
 <!---
 trippinganymess/trippinganymess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
