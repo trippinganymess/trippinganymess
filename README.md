@@ -20,7 +20,7 @@ Hello I am animesh, between here and there I have learned a few amazing technolo
 * HTML/CSS/JavaScript
 * Secure vibe coding
   
-#### I have basic understanding of :
+#### Topics i have basic understanding of :
 * Vim
 * Lua
 
