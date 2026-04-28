@@ -1,6 +1,6 @@
 Hello I am animesh, between here and there I have learned a few amazing technologies and this is my space of creating, hopefully you will find something interesting there and if you do and wanna talk about it, you can contact me here : [animeshclouds@gmail.com](animeshclouds@gmail.com).
 
-#### I am good at these topics: 
+#### Topics I am good at : 
 * python
 * async programming
 * FASTAPI
