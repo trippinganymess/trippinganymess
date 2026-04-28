@@ -3,14 +3,15 @@ Hello I am animesh, between here and there I have learned a few amazing technolo
 yooohoo, bye!!
 
 
-I am good at these topics: 
+#### I am good at these topics: 
 * python
 * async programming
 * FASTAPI
 * PostgreSQL
 * MongoDB
 * git/Github
-Topics I have good understanding of :
+
+#### Topics I have good understanding of :
 * Java
 * C
 * devOps
@@ -21,7 +22,8 @@ Topics I have good understanding of :
 * Networking
 * HTML/CSS/JavaScript
 * Secure vibe coding
-I have basic understanding of :
+  
+#### I have basic understanding of :
 * Vim
 * Lua
   
